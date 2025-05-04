@@ -41,6 +41,27 @@ Classical clustering techniques (KMeans, Hierarchical Clustering, DBSCAN) applie
 Optimal clusters identified through elbow method and silhouette analysis.
 Clear customer segments emerged based on purchasing behavior (e.g., high-frequency vs. low-monetary value buyers).**
 
+## Screenshot for Solution Report 
+  **Affinity Segmentation 1**
+    <p aligne='center'>
+      <img src='./Affinity_segement_1.png'>
+    </p>
+
+  **Affinity Segmentation 2**
+    <p aligne='center'>
+      <img src='./Affinity_segement_2.png'>
+    </p>
+
+  **Affinity Segmentation 3**
+    <p aligne='center'>
+      <img src='./Affinity_segement_3.png'>
+    </p>
+
+  **Classical Segmentation**
+    <p aligne='center'>
+      <img src='./Classical_segment.png'>
+    </p>
+
 ## Disclaimer
 This project was developed as part of an academic assignment and is intended for educational purposes only. The data, methodology, and results should 
 not be used for real-world business decisions without further validation and context-specific adjustments.
